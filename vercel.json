@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "https://vercel.com/sophiadelarosas-projects/seras-site/B3yYw75gAZtS917hC7LdbBVJA3Lr"
+        },
+        {
+            "source": "/tic-tac-toe",
+            "destination": "tic-tac-toe-ccpp19s49-sophiadelarosas-projects.vercel.app"
+        }
+    ]
+}
