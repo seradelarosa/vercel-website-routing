@@ -2,11 +2,11 @@
     "rewrites": [
         {
             "source": "/",
-            "destination": "seras-site-4mc99upy6-sophiadelarosas-projects.vercel.app"
+            "destination": "seras-site.vercel.app"
         },
         {
             "source": "/tic-tac-toe",
-            "destination": "tic-tac-toe-ccpp19s49-sophiadelarosas-projects.vercel.app"
+            "destination": "tic-tac-toe-lab-sigma.vercel.app"
         }
     ]
 }
