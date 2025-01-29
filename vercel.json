@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/",
-            "destination": "https://vercel.com/sophiadelarosas-projects/seras-site/B3yYw75gAZtS917hC7LdbBVJA3Lr"
+            "destination": "seras-site-4mc99upy6-sophiadelarosas-projects.vercel.app"
         },
         {
             "source": "/tic-tac-toe",
